@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"> Hi there!</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1643514693/6950/blob_wave.png?1643514693" width="30"> Hi there!</h1>
 
 ### 🧔 About Me
 🧑‍💻 Currently working as a Developer and Systems Administrator. \
