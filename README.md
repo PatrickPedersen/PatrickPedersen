@@ -11,6 +11,7 @@
   <img alt="Azure DevOps" src="https://img.shields.io/badge/-Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" />
   <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" />
   <img alt="PowerShell" src="https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 </p>
 
 ## Tech/Languages I have worked with
@@ -44,4 +45,5 @@
   <img alt="PhpStorm" src="https://img.shields.io/badge/-PhpStorm-000000?style=flat-square&logo=phpstorm&logoColor=white" />
   <img alt="Rider" src="https://img.shields.io/badge/-Rider-000000?style=flat-square&logo=rider&logoColor=white" />
   <img alt="DataGrip" src="https://img.shields.io/badge/-DataGrip-000000?style=flat-square&logo=datagrip&logoColor=white" />
+  <img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" />
 </p>
